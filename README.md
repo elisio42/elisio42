@@ -1,4 +1,4 @@
-- 👋 **Hi, iam** Elisio Augusto!
+- 👋 **Hi, i'm** Elisio Augusto!
 - 👀 **I'm interested in:** creating stunning user interfaces , exploring new front-end technologies , and building performant web apps .
 - 🌱 **I’m currently learning** React ⚛️, Next.js ⚛️, and accessibility best practices ♿.
 - 💞️ **I'm looking to collaborate on:** open-source projects  and innovative web applications .
